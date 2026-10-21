@@ -127,7 +127,7 @@ Embed the most useful images in this README after adding them, for example:
 ```markdown
 ## Dashboard preview
 
-![Customer Shopping Behavior dashboard](screenshots/powerbi_dashboard.png)
+![Customer Shopping Behavior dashboard](screenshots/powerbidashboard.png)
 ```
 
 Only include screenshots that you have captured from your own working files. Ensure the visuals and query outputs are legible at normal GitHub viewing size.
