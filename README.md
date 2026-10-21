@@ -112,11 +112,11 @@ These are descriptive results from the provided project materials, not evidence 
 
 
 
-```markdown
+
 ## Dashboard preview
 
 ![Customer Shopping Behavior dashboard](screenshots/powerbidashboard.png)
-```
+
 
 Only include screenshots that you have captured from your own working files. Ensure the visuals and query outputs are legible at normal GitHub viewing size.
 
