@@ -110,19 +110,7 @@ The supplied report records the following example results. Re-run the analysis a
 
 These are descriptive results from the provided project materials, not evidence of causation. The dataset's purchase amount is in USD according to the report's field naming.
 
-## Screenshots to add
 
-Save clear, cropped screenshots in a `screenshots/` folder. Avoid showing passwords, local file paths containing personal information, or unrelated desktop content.
-
-1. `powerbi_dashboard.png` — full dashboard canvas with KPI cards, charts, and slicers visible.
-2. `python_data_cleaning.png` — notebook section showing missing-value handling and feature engineering.
-3. `sql_revenue_by_gender.png` — Q1 query and result grid.
-4. `sql_subscription_comparison.png` — subscriber/non-subscriber query and result grid.
-5. `sql_customer_segmentation.png` — segmentation query and result grid.
-6. `project_workflow.png` *(optional)* — a simple Python → MySQL → Power BI workflow image.
-7. `powerbi_filters.png` *(optional)* — dashboard after applying one meaningful slicer/filter, demonstrating interactivity.
-
-Embed the most useful images in this README after adding them, for example:
 
 ```markdown
 ## Dashboard preview
